@@ -1,0 +1,31 @@
+
+.champ-detail-page {
+  padding: 20px;
+}
+
+.champ-title {
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.champ-splash {
+  width: 100%;
+  max-width: 700px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.champ-stats {
+  margin: 20px 0;
+}
+
+.spell {
+  margin-bottom: 20px;
+}
+
+.spell img {
+  width: 60px;
+  height: 60px;
+  margin-right: 10px;
+  vertical-align: middle;
+}

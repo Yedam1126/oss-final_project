@@ -1,0 +1,8 @@
+.favorites-page { padding:20px; font-family:sans-serif; }
+.fav-grid { display:flex; flex-direction:column; gap:10px; margin-top:12px; }
+.fav-card { display:flex; gap:12px; align-items:center; padding:12px; border-radius:8px; background:#fff; box-shadow:0 1px 3px rgba(0,0,0,0.06); }
+.fav-left img { width:48px; height:48px; border-radius:6px; }
+.fav-mid { flex:1; }
+.fav-name { font-weight:600; }
+.btn-delete { background:#ff6666; color:#fff; border:none; padding:6px 10px; border-radius:6px; cursor:pointer; }
+.btn-delete:hover { opacity:0.9; }
